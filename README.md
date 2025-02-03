@@ -1,2 +1,2 @@
 # AMI-Meeting-Corpus
-The proof of concept for the proof of concept. Was very fortunate to stumble upon the AMI Meeting Corpus. Tested various concepts such as semantic similarity and classification. The goal was to find similarities across meetings. No validation dataset -> had to read individual meetings and go through individual logs. This tiny win gave me enough momentum to access the company's data.
+POC
